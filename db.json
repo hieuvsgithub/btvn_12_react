@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "san pham 1 eeeeeeee",
+      "detail": "mo ta san pham 1",
+      "price": 100
+    },
+    {
+      "title": "fdjhsdk",
+      "price": 49357349,
+      "detail": "",
+      "id": 2
+    },
+    {
+      "title": "645464",
+      "price": 64654,
+      "detail": "65465465",
+      "id": 3
+    }
+  ]
+}
