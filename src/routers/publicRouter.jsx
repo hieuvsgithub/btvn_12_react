@@ -1,6 +1,6 @@
 import { Route } from "react-router-dom";
 import AdminLayout from "../Layout/AdminLayout";
-import ProductList from "../pages/admin/ProductList";
+import ProductList from "../pages/Admin/ProductList";
 import ActionProduct from "../pages/Admin/ActionProduct";
 
 const publicRouter = (
